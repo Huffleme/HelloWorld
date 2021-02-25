@@ -12,7 +12,7 @@ describe('ExpressJS server', () => {
       .end((err, res) => {
         expect(res).to.have.status(200)
         expect(res.body.status).to.equals('success')
-        expect(res.body.message).to.equals('Hello World!')
+        expect(res.body.message).to.equals('Hello Worldy!')
         done()
       })
   })
