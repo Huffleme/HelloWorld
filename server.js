@@ -5,7 +5,7 @@ const PORT = 3000
 app.use(express.json())
 
 app.get("/", (req, res) => {
-  res.json({ status: "success", message: "Hello World!" })
+  res.json({ status: "success", message: "Hello Worldy!" })
 })
 
 app.get('/quit', function(req,res) {
