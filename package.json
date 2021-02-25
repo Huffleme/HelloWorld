@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreipope/HelloWorld.git"
+    "url": "git+https://github.com/Huffleme/HelloWorld.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andreipope/HelloWorld/issues"
+    "url": "https://github.com/Huffleme/HelloWorld/issues"
   },
-  "homepage": "https://github.com/andreipope/HelloWorld#readme",
+  "homepage": "https://github.com/Huffleme/HelloWorld#readme",
   "dependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
